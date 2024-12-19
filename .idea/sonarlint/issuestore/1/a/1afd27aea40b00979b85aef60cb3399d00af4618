@@ -1,0 +1,9 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(¸ç¼µùÿÿÿÿ8Âşƒ¬½2
+U
+java:S1854"8Remove this useless assignment to local variable "cal1".(±À…Ú8¸€Ÿ¬½2
+F
+java:S1481")Remove this unused "cal1" local variable.(±À…Ú8ÏÄŸ¬½2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›€ï¹8•Úˆ¬½2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨®‰“8»ƒ¬½2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨®‰“8™® ¬½2
